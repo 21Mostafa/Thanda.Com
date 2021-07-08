@@ -13,3 +13,23 @@ border-radius: 5px;
 padding: 9px 25px;
 cursor: pointer;
 }
+.kar1{background-color: aquamarine;}
+.kar2{background-color:  brown;}
+.kar3{background-color: blueviolet;}
+.kar1,.kar2,.kar3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.alok h1{
+    color: white;
+}
+.alok img{
+    width: 100px;
+    
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 9px wheat
+     ;
+}
